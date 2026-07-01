@@ -1,4 +1,4 @@
-# My-Daily-Updates-In-CloudSecurity-In-CyberSecurity.
+# My-Daily-Updates-In-CyberSecurity.
 
 # 🚀 My Daily Learning & Upskilling Journal in CyberSecurity [Blue Team]
 
