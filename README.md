@@ -49,6 +49,8 @@ To demonstrate my commitment, consistency, and problem-solving abilities to futu
 6.Software Basics (Completed ✅)
 7.Attacks and Defenses (Learning 🖋️)
 
+Completed all modules with 🏆Rank Top20%, 🎗️Badges 07, 🔥Streak 20 and 🚪Completed rooms 26
+
 ---
 
 ## 📫 Connect with Me
