@@ -56,5 +56,5 @@ Completed all modules with 🏆Rank Top20%, 🎗️Badges 07, 🔥Streak 23 and 
 ---
 
 ## 📫 Connect with Me
-* **Discord Username:** opbhai_3536
-* **TryHackMe Username:** pratyaksh2121
+* **Linkdin:** www.linkedin.com/in/pratyaksh-kushwaha-51b70837b
+* **TryHackMe:** https://tryhackme.com/p/pratyaksh2121
