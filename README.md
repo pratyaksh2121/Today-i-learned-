@@ -47,9 +47,11 @@ To demonstrate my commitment, consistency, and problem-solving abilities to futu
 4.Computer Fundamentals (Completed ✅)
 5.Operating Systems Basics (Completed ✅)
 6.Software Basics (Completed ✅)
-7.Attacks and Defenses (Learning 🖋️)
+7.Attacks and Defenses (Completed ✅)
 
-Completed all modules with 🏆Rank Top20%, 🎗️Badges 07, 🔥Streak 20 and 🚪Completed rooms 26
+Completed all modules with 🏆Rank Top20%, 🎗️Badges 07, 🔥Streak 23 and 🚪Completed rooms 36
+
+🎊Certificatins🎉: Pre Security Certificate ✅ in TryHackMe.
 
 ---
 
