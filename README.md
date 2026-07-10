@@ -23,7 +23,7 @@ To demonstrate my commitment, consistency, and problem-solving abilities to futu
 -> In this month my journey starts with **Cyber Security 101 Path** and completing my learning path with 14 Modules in TryHackMe.
 
 1.Start Your Cyber Security Journey [In Offensive Security Intro, Defensive Security Intro and Search Skills] (Completed ✅)
-2.Linux Fundamentals (Learning 🖋️)
+2.Linux Fundamentals (Completed ✅)
 3.Windows and AD Fundamentals (Learning 🖋️)
 4.Command Line
 5.Networking
